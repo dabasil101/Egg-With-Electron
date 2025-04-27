@@ -1,8 +1,9 @@
 # 🥚 Egg Cooking App
 
-![image](https://github.com/user-attachments/assets/1ed91497-35e1-45d1-ab09-a9cf40fa6bf6)
-![image](https://github.com/user-attachments/assets/dac869f1-03cc-4f18-a829-441e0908a7fa)
-![image](https://github.com/user-attachments/assets/16263d80-b539-4e00-88db-ca865165e44d)
+![image](https://github.com/user-attachments/assets/91621b6d-6e9b-44f9-bb6f-0d02342ebc0f)
+![image](https://github.com/user-attachments/assets/2859a96d-9bd6-4d56-afb1-24eb0e00982d)
+![image](https://github.com/user-attachments/assets/71b93892-67ba-42f6-ad4a-7c5e4fbf65df)
+
 
 
 ![Egg Cooking App](./assets/icons/icon.png) <!-- Replace with your app's icon -->
