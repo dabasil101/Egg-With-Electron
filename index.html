@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Egg Cooking App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Choose Your Egg Preparation</h1>
+    <div id="home-screen" class="screen">
+      <div class="egg-options" id="egg-options"></div>
+    </div>
+
+    <div id="cooking-process" class="screen hidden">
+      <h1 id="method-name"></h1>
+      <div class="step-box">
+        <h2 id="current-step"></h2>
+      </div>
+      <button id="next-step-btn">Next Step</button>
+      <p id="time-left">Time Left: <span id="timer">0</span>s</p>
+      <a id="go-home-btn" class="home-button hidden">Go Back Home</a>
+    </div>
+  </div>
+
+  <script src="renderer.js"></script>
+</body>
+</html>
