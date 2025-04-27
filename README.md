@@ -1,7 +1,3 @@
-Here's a fun and engaging version of your `README.md` file for the Egg Cooking App, filled with emojis to make it more lively!
-
----
-
 # 🥚 Egg Cooking App
 
 ![image](https://github.com/user-attachments/assets/1ed91497-35e1-45d1-ab09-a9cf40fa6bf6)
@@ -129,8 +125,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions, feedback, or bug reports, feel free to reach out:
 
-- GitHub: [@yourusername](https://github.com/yourusername) 🌐
-- Email: your.email@example.com 📧
+- GitHub: [@dabasil101](https://github.com/dabasil101) 🌐
+- Email: alexbasilxbox@gmail.com 📧
 
 ---
 
